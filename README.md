@@ -1,4 +1,4 @@
-#给代码加了很详细的注释, 加深了对web服务器的理解，以及练习了基础unix编程
+# 给代码加了很详细的注释, 加深了对web服务器的理解，以及练习了基础unix编程
 
 A mirror for tinyhttpd
 测试CGI时需要本机安装PERL，同时安装perl-cgi
